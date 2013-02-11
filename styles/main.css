@@ -1,0 +1,34 @@
+html, body {
+	margin: 0;
+	height: 100%;
+}
+
+.wrapper {
+	position: relative;
+	min-width: 960px;
+	min-height: 100%;
+	height: auto !important;
+}
+
+.left-side, .right-side {
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	z-index: 1;
+}
+
+.left-side {
+	width: 25%;
+	background: red;
+}
+
+.right-side {
+	width: 75%;
+	left: 25%;
+}
+
+.footer {
+	width: 100%;
+	min-height: 300px;
+	background: yellow;
+}
