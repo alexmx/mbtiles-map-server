@@ -17,14 +17,8 @@ html, body {
 	z-index: 1;
 }
 
-.left-side {
-	width: 25%;
-	background: red;
-}
-
 .right-side {
-	width: 75%;
-	left: 25%;
+	width: 100%;
 }
 
 .footer {

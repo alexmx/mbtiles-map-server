@@ -1,3 +1,5 @@
+#!/usr/local/bin/node
+
 var express = require("express");
 var app = express();
 var MBTiles = require('mbtiles');
