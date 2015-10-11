@@ -24,6 +24,8 @@ $ ./web-server.js
 Now both `map-server` and `web-server` are running.
 Open in your browser: [localhost:4444](http://localhost:4444/)
 
+![Screenshot](https://raw.githubusercontent.com/alexmx/mbtiles-map-server/master/public/screenshot.png)
+
 **[!]** You can find a sample map in the release archives of this project.
 
 Version
